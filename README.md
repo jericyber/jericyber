@@ -1,4 +1,9 @@
-## Jericho Irlanda
+# Jericho Irlanda
 
 
-test
+## Projects
+- **Cloud**
+- **Homelab**
+- 
+
+## Certifications 
